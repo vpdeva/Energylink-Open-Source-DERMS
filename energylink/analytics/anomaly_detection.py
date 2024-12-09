@@ -1,6 +1,6 @@
 
 import numpy as np
-from sklearn.ensemble import IsolationForest
+from scikit-learn.ensemble import IsolationForest
 
 def detect_anomalies(data):
     """Detect anomalies in energy data using Isolation Forest."""

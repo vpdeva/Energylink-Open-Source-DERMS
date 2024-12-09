@@ -5,7 +5,7 @@ setup(
     name='energylink',
     version='4.0',
     description='EnergyLink: Open Source Energy Data Exchange and DERMS',
-    author='Your Name',
+    author='Vishnu Devarajan',
     packages=find_packages(),
     install_requires=[
         'pandas',
@@ -20,7 +20,7 @@ setup(
         'fastapi',
         'requests',
         'jira',
-        'sklearn',
+        'scikit-learn',
         'web3'
     ],
 )

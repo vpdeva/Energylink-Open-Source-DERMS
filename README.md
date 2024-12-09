@@ -23,12 +23,15 @@ pip install .
 ### Start the Backend
 Run the backend with FastAPI:
 ```
+cd energylink/dashboard
 uvicorn app:app --reload --host 0.0.0.0 --port 8000
 ```
 
 ### Start the Dashboard
+Open another terminal
 Run the Streamlit dashboard:
 ```
+cd energylink/dashboard
 streamlit run dashboard.py
 ```
 

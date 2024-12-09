@@ -1,6 +1,6 @@
 
 import numpy as np
-from sklearn.linear_model import LinearRegression
+from scikit-learn.linear_model import LinearRegression
 
 def forecast_energy_demand(data, look_back=3):
     """Forecast energy demand using linear regression."""
