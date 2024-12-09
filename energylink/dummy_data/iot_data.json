@@ -1,0 +1,6 @@
+
+[
+    {"device_id": "solar_01", "timestamp": "2024-12-09T00:00:00Z", "energy_generated": 15.2},
+    {"device_id": "solar_02", "timestamp": "2024-12-09T01:00:00Z", "energy_generated": 16.5}
+]
+            

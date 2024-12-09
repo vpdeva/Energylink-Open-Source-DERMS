@@ -1,0 +1,6 @@
+
+[
+    {"station_id": "grid_01", "timestamp": "2024-12-09T00:00:00Z", "voltage": 240, "current": 10},
+    {"station_id": "grid_02", "timestamp": "2024-12-09T01:00:00Z", "voltage": 230, "current": 12}
+]
+            
